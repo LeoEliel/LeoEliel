@@ -1,4 +1,4 @@
-# Hi, I'm Leonardo Eliel 👋🇬🇧
+# Hi, I'm Leonardo Eliel 👋🏾🇬🇧
 
 I am a developer and Quality Assurance (QA) professional passionate about ensuring software excellence and reliability. I am constantly seeking to improve my skills in both building and validating software.
 
@@ -12,13 +12,13 @@ Proudly holding the **AWS Certified Cloud Practitioner** certification, solidify
 
 ---
 
-# Olá, eu sou Leonardo Eliel 👋🇧🇷
+# Olá, eu sou Leonardo Eliel 👋🏾🇧🇷
 
 Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por garantir a excelência e a confiabilidade de aplicações. Busco sempre aprimorar minhas habilidades tanto na construção quanto na validação de software.
 
 Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma base técnica em conceitos de nuvem, segurança e arquitetura AWS.
 
-## 💼 Sobre Mim
+## 👨🏾 Sobre Mim
 
 *   **Experiência Profissional:** Atuo como **QA Trainee na Compass UOL**, onde desenvolvo atividades focadas na qualidade de software, automação de testes e aplicação de metodologias ágeis.
 *   **Foco Atual:** Minha base de estudos e prática profissional concentra-se fortemente em testes automatizados, integração contínua e garantia de qualidade.
@@ -27,7 +27,7 @@ Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma bas
 ## 🏆 Certifications / Certificações
 
 <a href="https://www.credly.com/badges/261b49fb-ec96-43b6-864b-5c89c3f45640/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner">
 </a>
 
 ## 🛠️ Technologies & Tools / Tecnologias & Ferramentas
