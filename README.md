@@ -9,11 +9,7 @@ Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por gar
 *   **Desenvolvimento:** Além de QA, tenho experiência prática com desenvolvimento Full Stack e Mobile, o que me proporciona uma visão sistêmica e profunda das aplicações que testo. 
 *   **Projetos Variados:** Gosto de explorar diferentes áreas da tecnologia, desde a criação de sites estáticos (HTML/CSS) até conceitos de desenvolvimento de jogos e estratégias avançadas em servidores complexos.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoEliel&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://streak-stats.demolab.com?user=LeoEliel&theme=default&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoEliel&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=LeoEliel&theme=dark&hide_border=true)
 
 ## 🛠️ Tecnologias e Ferramentas
 
