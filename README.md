@@ -2,18 +2,21 @@
 
 I am a developer and Quality Assurance (QA) professional passionate about ensuring software excellence and reliability. I am constantly seeking to improve my skills in both building and validating software.
 
+Proudly holding the **AWS Certified Cloud Practitioner** certification, solidifying my foundational knowledge of cloud concepts, security, and architecture.
+
 ## 💼 About Me
 
 *   **Professional Experience:** Currently working as a **QA Trainee at Compass UOL**, where I focus on software quality, test automation, and agile methodologies.
 *   **Current Focus:** Deeply involved in automated testing, continuous integration, and quality assurance using BDD/Gherkin, Robot Framework, and Postman.
 *   **Development:** Beyond QA, I have hands-on experience with Full Stack and Mobile development, which gives me a strong systemic view of the applications I test.
 
-<br>
 ---
 
-#Olá, eu sou Leonardo Eliel 👋🇧🇷
+# Olá, eu sou Leonardo Eliel 👋🇧🇷
 
 Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por garantir a excelência e a confiabilidade de aplicações. Busco sempre aprimorar minhas habilidades tanto na construção quanto na validação de software.
+
+Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma base técnica em conceitos de nuvem, segurança e arquitetura AWS.
 
 ## 💼 Sobre Mim
 
@@ -21,8 +24,13 @@ Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por gar
 *   **Foco Atual:** Minha base de estudos e prática profissional concentra-se fortemente em testes automatizados, integração contínua e garantia de qualidade.
 *   **Desenvolvimento:** Além de QA, tenho experiência prática com desenvolvimento Full Stack e Mobile, o que me proporciona uma visão sistêmica e profunda das aplicações que testo.
 
+## 🏆 Certifications / Certificações
 
-## 🛠️ Technologies & Tools
+<a href="https://www.credly.com/badges/261b49fb-ec96-43b6-864b-5c89c3f45640/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
+</a>
+
+## 🛠️ Technologies & Tools / Tecnologias & Ferramentas
 
 ### Quality Assurance & Testing
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
@@ -47,6 +55,7 @@ Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por gar
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br>
 ---
