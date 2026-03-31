@@ -6,9 +6,9 @@ Proudly holding the **AWS Certified Cloud Practitioner** certification, solidify
 
 ## 👨🏾 About Me
 
-*   **Professional Experience:** Currently working as a **QA Trainee at Compass UOL**, where I focus on software quality, test automation, and agile methodologies.
-*   **Current Focus:** Deeply involved in automated testing, continuous integration, and quality assurance using BDD/Gherkin, Robot Framework, and Postman.
-*   **Development:** Beyond QA, I have hands-on experience with Full Stack and Mobile development, which gives me a strong systemic view of the applications I test.
+*   **Professional Experience:** Worked as a **QA&AI Trainee at Compass UOL**, where I was able focus on software quality, test automation, and agile methodologies integrated with Artificial Inteligence.
+*   **Current Focus:** Past experience involved in automated testing, continuous integration, and quality assurance using BDD/Gherkin Test cases modelling and documentation, Robot Framework, Postman, Scrum & Kanban alogside Git & GIthub allied with Artificial Inteligence + AWS solutions.
+*   **Development:** Beyond QA&AI, I have hands-on experience with Full Stack and Mobile development, which gives me a strong systemic view of the applications I test.
 
 ---
 
@@ -20,9 +20,13 @@ Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma bas
 
 ## 👨🏾 Sobre Mim
 
-*   **Experiência Profissional:** Atuo como **QA Trainee na Compass UOL**, onde desenvolvo atividades focadas na qualidade de software, automação de testes e aplicação de metodologias ágeis.
+*   **Experiência Profissional:** Atuei como **QA Trainee na Compass UOL**, onde desenvolvi atividades focadas na qualidade de software, automação de testes e aplicação de metodologias ágeis aliadas á IA e a soluções da AWS.
 *   **Foco Atual:** Minha base de estudos e prática profissional concentra-se fortemente em testes automatizados, integração contínua e garantia de qualidade.
 *   **Desenvolvimento:** Além de QA, tenho experiência prática com desenvolvimento Full Stack e Mobile, o que me proporciona uma visão sistêmica e profunda das aplicações que testo.
+
+## 📞 Contato
+
+* **Email:**
 
 ## 🏆 Certifications / Certificações
 
@@ -63,4 +67,6 @@ Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma bas
 
 <br>
 ---
-⭐️ *Feel free to explore my repositories and get in touch! / Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
+⭐️ *Feel free to explore my repositories and get in touch!*
+OR
+⭐️ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
