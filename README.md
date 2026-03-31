@@ -2,7 +2,7 @@
 
 I am a developer and Quality Assurance (QA) professional passionate about ensuring software excellence and reliability. I am constantly seeking to improve my skills in both building and validating software.
 
-Proudly holding the **AWS Certified Cloud Practitioner** certification, solidifying my foundational knowledge of cloud concepts, security, and architecture.
+Gladly holding the **AWS Certified Cloud Practitioner** certification, solidifying my foundational knowledge of cloud concepts, security, and architecture.
 
 ## 👨🏾 About Me
 
@@ -16,7 +16,7 @@ Proudly holding the **AWS Certified Cloud Practitioner** certification, solidify
 
 Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por garantir a excelência e a confiabilidade de aplicações. Busco sempre aprimorar minhas habilidades tanto na construção quanto na validação de software.
 
-Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma base técnica em conceitos de nuvem, segurança e arquitetura AWS.
+Super feliz em ter conquistado a certificação **AWS Certified Cloud Practitioner**, permitindo uma base técnica em conceitos de nuvem, segurança e arquitetura AWS.
 
 ## 👨🏾 Sobre Mim
 
