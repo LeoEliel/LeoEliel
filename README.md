@@ -1,15 +1,54 @@
+# Hi, I'm Leonardo Eliel 👋
+*Read in [Portuguese](#-versão-em-português) / Leia em [Português](#-versão-em-português)*
+
+I am a developer and Quality Assurance (QA) professional passionate about ensuring software excellence and reliability. I am constantly seeking to improve my skills in both building and validating software.
+
+## 💼 About Me
+
+*   **Professional Experience:** Currently working as a **QA Trainee at Compass UOL**, where I focus on software quality, test automation, and agile methodologies.
+*   **Education:** In my 5th semester of the Systems Analysis and Development (ADS) degree at IFRO, Ariquemes campus.
+*   **Current Focus:** Deeply involved in automated testing, continuous integration, and quality assurance using BDD/Gherkin, Robot Framework, and Postman.
+*   **Development:** Beyond QA, I have hands-on experience with Full Stack and Mobile development, which gives me a strong systemic view of the applications I test.
+
+## 🛠️ Technologies & Tools
+
+**QA & Testing**
+*   Robot Framework
+*   Postman
+*   BDD / Gherkin
+
+**Backend & Databases**
+*   Node.js
+*   Python (Django)
+*   PostgreSQL
+*   MySQL
+
+**Frontend & Mobile**
+*   React
+*   Flutter
+*   HTML / CSS
+
+**DevOps & Infrastructure**
+*   Git / GitHub Actions (CI/CD)
+*   Docker
+*   Linux Server Administration
+
+---
+
+<br>
+
+# 🇧🇷 Versão em Português
+
 # Olá, eu sou Leonardo Eliel 👋
 
-Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por garantir a excelência e a confiabilidade de aplicações. Atualmente, estou no 5º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no IFRO, campus Ariquemes, e busco sempre aprimorar minhas habilidades tanto na construção quanto na validação de software.
+Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por garantir a excelência e a confiabilidade de aplicações. Busco sempre aprimorar minhas habilidades tanto na construção quanto na validação de software.
 
 ## 💼 Sobre Mim
 
 *   **Experiência Profissional:** Atuo como **QA Trainee na Compass UOL**, onde desenvolvo atividades focadas na qualidade de software, automação de testes e aplicação de metodologias ágeis.
+*   **Formação:** Cursando o 5º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no IFRO, campus Ariquemes.
 *   **Foco Atual:** Minha base de estudos e prática profissional concentra-se fortemente em testes automatizados, integração contínua e garantia de qualidade (utilizando BDD/Gherkin, Robot Framework e Postman).
-*   **Desenvolvimento:** Além de QA, tenho experiência prática com desenvolvimento Full Stack e Mobile, o que me proporciona uma visão sistêmica e profunda das aplicações que testo. 
-*   **Projetos Variados:** Gosto de explorar diferentes áreas da tecnologia, desde a criação de sites estáticos (HTML/CSS) até conceitos de desenvolvimento de jogos e estratégias avançadas em servidores complexos.
-
-![GitHub Stats](https://streak-stats.demolab.com?user=LeoEliel&theme=dark&hide_border=true)
+*   **Desenvolvimento:** Além de QA, tenho experiência prática com desenvolvimento Full Stack e Mobile, o que me proporciona uma visão sistêmica e profunda das aplicações que testo.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -34,10 +73,5 @@ Sou um desenvolvedor e profissional de Quality Assurance (QA) apaixonado por gar
 *   Docker
 *   Administração de Servidores Linux
 
-## 📈 Estatísticas do GitHub
-
-<!-- Você pode adicionar as URLs geradas pelo GitHub Readme Stats aqui no futuro -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vision-friendly-dark)
-
 ---
-⭐️ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
+⭐️ *Feel free to explore my repositories and get in touch! / Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
