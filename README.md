@@ -4,7 +4,7 @@ I am a developer and Quality Assurance (QA) professional passionate about ensuri
 
 Proudly holding the **AWS Certified Cloud Practitioner** certification, solidifying my foundational knowledge of cloud concepts, security, and architecture.
 
-## 💼 About Me
+## 👨🏾 About Me
 
 *   **Professional Experience:** Currently working as a **QA Trainee at Compass UOL**, where I focus on software quality, test automation, and agile methodologies.
 *   **Current Focus:** Deeply involved in automated testing, continuous integration, and quality assurance using BDD/Gherkin, Robot Framework, and Postman.
