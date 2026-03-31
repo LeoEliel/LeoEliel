@@ -37,6 +37,10 @@ Possuo a certificação **AWS Certified Cloud Practitioner**, permitindo uma bas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cucumber/BDD](https://img.shields.io/badge/BDD_/_Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
+### Agile Methodologies / Metodologias Ágeis
+![Scrum](https://img.shields.io/badge/Scrum-F16624?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
