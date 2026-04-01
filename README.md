@@ -26,13 +26,19 @@ Super feliz em ter conquistado a certificação **AWS Certified Cloud Practition
 
 ## 📞 Contato
 
-* **Email:**
-
+* **Email:** leoeliel13@gmail.com
+  
 ## 🏆 Certifications / Certificações
 
-<a href="https://www.credly.com/badges/261b49fb-ec96-43b6-864b-5c89c3f45640/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner">
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.credly.com/badges/261b49fb-ec96-43b6-864b-5c89c3f45640/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Cloud Practitioner">
+  </a>
+  
+  <img src="https://drive.google.com/file/d/1zsTYyFC-G-2aMSBSaB3OXjWnsPaxqfzh/view?usp=sharing" alt="British Council C1">
+</div>
+
+* **British Council EnglishScore:** CEFR C1 Advanced (Score: 514)
 
 ## 🛠️ Technologies & Tools / Tecnologias & Ferramentas
 
