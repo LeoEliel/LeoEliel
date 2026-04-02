@@ -26,16 +26,16 @@ Super feliz em ter conquistado a certificação **AWS Certified Cloud Practition
 
 ## 📞 Contato
 
-* **Email:** leoeliel13@gmail.com
-  
+![Static Badge](https://img.shields.io/badge/%20leoeliel13%40gmail.com-red?style=flat-square&logo=maildotru&logoColor=white)
+
 ## 🏆 Certifications / Certificações
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.credly.com/badges/261b49fb-ec96-43b6-864b-5c89c3f45640/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Cloud Practitioner">
   </a>
-  <a href="https://drive.google.com/file/d/1zsTYyFC-G-2aMSBSaB3OXjWnsPaxqfzh/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/file/d/1zsTYyFC-G-2aMSBSaB3OXjWnsPaxqfzh/view?usp=sharing" alt="British Council C1">
+  <a href="https://drive.google.com/file/d/1JSliubw8SkqFAPFMUBYWPA_iNHD-3wu7/view?usp=sharing" target="_blank">
+    <img src="" alt="British Council C1">
   </a>
 </div>
 
